@@ -17,22 +17,29 @@ Click on any file link below to view the database architecture, source data, or 
 
 ### 2. Relational Database Tables (Source Excel Sheets)
 These files represent the core relational database tables staged and modeled inside Power BI:
-* 👤 [Students Table](Student%20Grade%20Excel%20File.xlsx%20-%20Students.csv)
-* 📚 [Courses Table](Student%20Grade%20Excel%20File.xlsx%20-%20Courses.csv)
-* 📝 [Exams Performance Table](Student%20Grade%20Excel%20File.xlsx%20-%20Exams.csv)
-* 📅 [Attendance Records Table](Student%20Grade%20Excel%20File.xlsx%20-%20Attendance.csv)
-* 💳 [Financial Payments Table](Student%20Grade%20Excel%20File.xlsx%20-%20Payments.csv)
-* 🏫 [Enrollments Mapping Table](Student%20Grade%20Excel%20File.xlsx%20-%20Enrollments.csv)
-* 🧑‍🏫 [Instructors Table](Student%20Grade%20Excel%20File.xlsx%20-%20Instructors.csv)
+* 📁 [Student Grade Excel File.xlsx](./Student%20Grade%20Excel%20File.xlsx)
+
+#### Included Database Tables
+* 👤 Students Table
+* 📚 Courses Table
+* 📝 Exams Performance Table
+* 📅 Attendance Records Table
+* 💳 Financial Payments Table
+* 🏫 Enrollments Mapping Table
+* 🧑‍🏫 Instructors Table
+
+---
 
 ### 3. Aggregated Model Insights & Staging Views
 Processed data views used to directly feed the specific visualizations:
-* 📊 [Master Analysis Data Table](Student%20Grade%20Excel%20File.xlsx%20-%20Analysis%20Data.csv)
-* 📈 [Average Score By Department](Student%20Grade%20Excel%20File.xlsx%20-%20Average%20Score%20By%20Department.csv)
-* 🏆 [Top Scorer By Course View](Student%20Grade%20Excel%20File.xlsx%20-%20Top%20Scorer%20By%20Course.csv)
-* 💰 [Payment Analysis Metrics](Student%20Grade%20Excel%20File.xlsx%20-%20Payment%20Analysis.csv)
-* ⏳ [Attendance vs Score Analytics](Student%20Grade%20Excel%20File.xlsx%20-%20Attendance%20vs%20Score.csv)
+* 📁 [Student Grade Excel File.xlsx](./Student%20Grade%20Excel%20File.xlsx)
 
+#### Included Analytical Views
+* 📊 Master Analysis Data Table
+* 📈 Average Score By Department
+* 🏆 Top Scorer By Course View
+* 💰 Payment Analysis Metrics
+* ⏳ Attendance vs Score Analytics
 ---
 
 ## 🔑 Key Insights Delivered
@@ -46,3 +53,14 @@ Processed data views used to directly feed the specific visualizations:
 * **Data Staging & ETL:** Microsoft Excel & Power Query
 * **Business Intelligence:** Power BI Desktop (Data Modeling, Page Navigation, Custom Data Labels)
 * **Version Control:** Git & GitHub
+
+ ## 📬 Project Overview
+* This project demonstrates a complete analytics workflow:
+
+* **Relational database design**
+* **Data cleaning and transformation**
+* **Business intelligence reporting**
+* **Executive dashboard storytelling**
+* **Data-driven operational analysis**
+
+*It is designed as a portfolio-ready Power BI and SQL analytics project suitable for showcasing data modeling, ETL, and visualization skills.
